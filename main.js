@@ -1,8 +1,14 @@
 import Student from "./components/Student.js"
 import LearningPaths from "./components/LearningPath.js"
 import Course from "./components/Course.js"
+import PlatziClass from "./components/PlatziClass.js"
 
-
+const clase1 = new PlatziClass({
+  name: "Como hacer un Objeto en JS",
+  videoID: "hsdjfhsdfjksad",
+})
+clase1.reproducir()
+clase1.pausar()
 
 const progBasica = new Course({
   name: "Curso Gratis de Programación Básica",
