@@ -1,0 +1,13 @@
+{
+  "name": "components",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ricardo Gómez <gricardo2213@gmail.com>",
+  "license": "MIT"
+}
