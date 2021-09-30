@@ -1,4 +1,4 @@
-import Student from "./components/Student.js"
+import Student from "./components/students/Student.js"
 import LearningPaths from "./components/LearningPath.js"
 import Course from "./components/Course.js"
 import PlatziClass from "./components/PlatziClass.js"
